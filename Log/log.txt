@@ -1,0 +1,10 @@
+None
+train data path: Data/class_attr_data_10_updated/train.pkl
+New model best model at epoch 0
+Epoch [0]:	Train loss: 5.3017	Train accuracy: 0.9291	Val loss: 5.2740	Val acc: 1.3356	Best val epoch: 0
+New model best model at epoch 1
+Epoch [1]:	Train loss: 5.2448	Train accuracy: 1.6681	Val loss: 5.2208	Val acc: 1.8364	Best val epoch: 1
+New model best model at epoch 2
+Epoch [2]:	Train loss: 5.1883	Train accuracy: 2.3438	Val loss: 5.1673	Val acc: 2.4207	Best val epoch: 2
+New model best model at epoch 3
+Epoch [3]:	Train loss: 5.1318	Train accuracy: 3.1039	Val loss: 5.1147	Val acc: 2.8381	Best val epoch: 3
