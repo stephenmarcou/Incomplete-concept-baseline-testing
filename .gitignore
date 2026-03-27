@@ -31,7 +31,5 @@ incomplete_test_env/
 # =========================
 # LOGS / TEMP FILES
 # =========================
-*.log
-tmp/
-temp/
+Log/
 
